@@ -1,10 +1,6 @@
-# UM553Project
+# Sports Predictor Discord Bot
 
 https://csgetdegreecs.atlassian.net/jira/software/projects/RZLZ/boards/1
-
-https://github.com/Jhodg99/UM553Project
-
-CsGetDegrEECS
 
 
 Sources:  
